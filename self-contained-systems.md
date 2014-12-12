@@ -1,3 +1,6 @@
+---
+---
+
 # self-contained systems
 
 based in part on the welcome rediscovery of the [[one-thing-well]] principle

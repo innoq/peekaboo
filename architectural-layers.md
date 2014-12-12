@@ -1,3 +1,6 @@
+---
+---
+
 we prefer to think about architecture from three fundamental architectual perspectives:
 
 
