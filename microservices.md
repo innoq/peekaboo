@@ -1,4 +1,6 @@
 ---
+title: microservices
+layout: default
 ---
 
 microservice architectures describe software systems composed of lightweight,

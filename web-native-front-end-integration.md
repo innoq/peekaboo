@@ -1,4 +1,6 @@
 ---
+title: web-native front-end integration
+layout: default
 ---
 
 # web-native front-end integration

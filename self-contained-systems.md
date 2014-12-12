@@ -1,4 +1,6 @@
 ---
+title: self-contained systems
+layout: default
 ---
 
 # self-contained systems
