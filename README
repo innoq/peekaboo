@@ -1,0 +1,5 @@
+an unauthoritative collection of topics we care about
+
+for now this is essentially a wiki without UI, just plain-text files (using
+Markdown plus [[wiki links]]) - we'll figure out a lightweight way to achieve
+pretty rendering, perhaps even editing, eventually
