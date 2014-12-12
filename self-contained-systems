@@ -1,5 +1,7 @@
 #software-architecture #microservices
 
+# self-contained systems
+
 based in part on the welcome rediscovery of the [[one-thing-well]] principle
 with [[microservices]], self-contained systems (SCS) describe a set of
 architectural constraints for creating and managing a landscape composed of
